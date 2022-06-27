@@ -34,22 +34,30 @@ I also recorded the message audio with my phone and I edited it using the app *S
 
 To make the movement effect I needed it in diferent positions so the video would be not more than a combination of all this pictures.
 
+### The logo
+<img src="./dist/data/images/cice_christmas.png" width="200px">
 
-<img src="./dist/data/images/cice_christmas.png" width="100px">
+### The character for the message
 <img src="./dist/data/images/dali.png" width="100px">
 <img src="./dist/data/images/dali2.png" width="100px">
 <img src="./dist/data/images/dali3.png" width="100px">
 
+### The character walking down
 <img src="./dist/data/images/dali_down1.png" width="100px">
 <img src="./dist/data/images/dali_down2.png" width="100px">
 <img src="./dist/data/images/dali_down3.png" width="100px">
-<img src="./dist/data/images/dali_left1.png" width="100px">
 
+### The character walking left
+<img src="./dist/data/images/dali_left1.png" width="100px">
 <img src="./dist/data/images/dali_left2.png" width="100px">
 <img src="./dist/data/images/dali_left3.png" width="100px">
+
+### The character walking right
 <img src="./dist/data/images/dali_right1.png" width="100px">
 <img src="./dist/data/images/dali_right2.png" width="100px">
 <img src="./dist/data/images/dali_right3.png" width="100px">
+
+### The character walking up
 <img src="./dist/data/images/dali_up1.png" width="100px">
 <img src="./dist/data/images/dali_up2.png" width="100px">
 <img src="./dist/data/images/dali_up3.png" width="100px">
