@@ -1,9 +1,13 @@
 # CHRISTMAS GREETING 2021
 
 ### Table of content
-1. [Images](#images)
 
-## The Project
+1. [The Project](#project)
+2. [Planning](#planning)
+3. [Images](#images)
+
+
+## The Project <a name="project"></a>
 
 I started studying my Python Course at CICE - Professional School of New Technologies (Madrid) - in October 2020.
 
@@ -20,7 +24,7 @@ But suddenly I came across [pygame](https://www.pygame.org/news). Pygame is a se
 
 After watching some tutorials and have been reading for a while, I started creating Christmas Greeting "Game" from scratch.
 
-## PLANNING
+## PLANNING <a name="planning"></a>
 
 I wanted to create like an interactive video where a **Money Heist** character would recite the message.
 
