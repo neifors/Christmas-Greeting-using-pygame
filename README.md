@@ -7,6 +7,7 @@
 3. [Images](#images)
 4. [Video Demo](#video)
 5. [Run It Locally](#howtorun)
+6. [Proud Of](proudof)
 
 
 ## THE PROJECT <a name="project"></a>
@@ -82,3 +83,25 @@ If you want to hear the music and the message, and also want to manage the chara
 - Run the script called **cice_christmas_script.py** using the play button in VS Code Editor, or just run `python cice_christmas_script.py`
 
 Use the keyboard arrows to make the character walk and once you see the white alert on top of the script, press Space to hear the message (🇪🇸).
+
+
+### PROUD OF <a name="proudof"></a>
+
+#### Readability
+
+Thanks to have a clear and commented code, I took this after more than one year and I just had to read the comments to understand everything again.
+
+![Code snippet1](https://i.ibb.co/3CVRm0D/2022-06-27-14.png)
+![Code snippet2](https://i.ibb.co/CMTV415/2022-06-27-13.png)
+
+
+#### Creativity
+
+I've created everything appart from the background and soundtrack. Creating is what I like most.
+
+
+#### Originality
+
+When I saw everyone else projects, all of them came from students studying courses related to video and/or graphic design. They were impressive projects but I couldn't see anyone from programming participating in the challenge.
+
+So yes, I'm feeling proud even having lost.
