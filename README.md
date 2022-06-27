@@ -34,9 +34,9 @@ I also recorded the message audio with my phone and I edited it using the app *S
 
 
 ![Logo](./dist/data/images/cice_christmas.png)
-![Dali's face1](./dist/data/images/dali.png)
-![Dali's face2](./dist/data/images/dali2.png)
-![Dali's face3](./dist/data/images/dali3.png)
+![Dali's face1](./dist/data/images/dali.png | width=100)
+![Dali's face2](./dist/data/images/dali2.png | width=100)
+![Dali's face3](./dist/data/images/dali3.png | width=100)
 ![](./dist/data/images/)
 ![](./dist/data/images/)
 ![](./dist/data/images/)
