@@ -39,10 +39,12 @@ To make the movement effect I needed it in diferent positions so the video would
 <img src="./dist/data/images/dali.png" width="100px">
 <img src="./dist/data/images/dali2.png" width="100px">
 <img src="./dist/data/images/dali3.png" width="100px">
+
 <img src="./dist/data/images/dali_down1.png" width="100px">
 <img src="./dist/data/images/dali_down2.png" width="100px">
 <img src="./dist/data/images/dali_down3.png" width="100px">
 <img src="./dist/data/images/dali_left1.png" width="100px">
+
 <img src="./dist/data/images/dali_left2.png" width="100px">
 <img src="./dist/data/images/dali_left3.png" width="100px">
 <img src="./dist/data/images/dali_right1.png" width="100px">
