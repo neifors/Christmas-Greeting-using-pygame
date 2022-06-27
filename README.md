@@ -17,5 +17,16 @@ After watching some tutorials and have been reading for a while, I started creat
 
 # PLAN
 
-I wanted to create like an interactive video where a *Money Heist* character would recite the message.
+I wanted to create like an interactive video where a **Money Heist** character would recite the message.
+
+
 ![Money Heist characteres](https://images.newindianexpress.com/uploads/user/imagelibrary/2021/12/6/w900X450/MH5-.jpg?w=640&dpr=1.3)
+
+
+And also I wanted to send a message of encouragement since the world was being hit by a pandemic.
+
+First days, while I was still researching about pygame, I downloaded an app in my phone - *8bit Pintor* - which allowed me could draw with pixels. I replace the time I used to spend in social medias for time creating the images I wanted to use for my character and the school logo with some Christmas decoration.
+
+I also recorded the message audio with my phone and I edited it using the app *Super Sound*
+
+![logo](./dist/data/images/cice_christmas.png)
