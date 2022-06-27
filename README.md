@@ -1,10 +1,12 @@
-# CHRISTMAS GREETING 2021
+# CHRISTMAS GREETING 2021 (Spanish message)
 
 ### Table of content
 
 1. [The Project](#project)
 2. [Planning](#planning)
 3. [Images](#images)
+4. [Video Demo](#video)
+5. [Run It Locally](#howtorun)
 
 
 ## THE PROJECT <a name="project"></a>
@@ -36,7 +38,7 @@ And also I wanted to send a message of encouragement since the world was being h
 
 First days, while I was still researching about pygame, I downloaded an app in my phone - *8bit Pintor* - which allowed me could draw with pixels. I replace the time I used to spend in social medias for time creating the images I wanted to use for my character and the school logo with some Christmas decoration.
 
-I also recorded the message audio with my phone and I edited it using the app *Super Sound*
+I also recorded the message audio (🇪🇸) with my phone and I edited it using the app *Super Sound*
 
 
 ### IMAGES <a name="images"></a>
@@ -61,6 +63,22 @@ To make the movement effect I needed the character in different positions so the
 #### The character walking up
 <img src="./dist/data/images/dali_up1.png" width="100px"><img src="./dist/data/images/dali_up2.png" width="100px"><img src="./dist/data/images/dali_up3.png" width="100px">
 
-### VIDEO DEMO
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/QR_Qe8kdKeM/0.jpg)](http://www.youtube.com/watch?v=QR_Qe8kdKeM)
+### VIDEO DEMO <a name="video"></a>
 
+If you want to hear the music and the message, and also want to manage the character through the stage, you have to run it locally.
+
+[![Christmas Greeting demonstration video](http://img.youtube.com/vi/QR_Qe8kdKeM/0.jpg)](http://www.youtube.com/watch?v=QR_Qe8kdKeM)
+
+
+### RUN IT LOCALLY <a name="howtorun"></a>
+
+- Download or clone this repo
+
+#### Option 1
+- You can execute the **cice_christmas.exe** file you can find inside **/dist**.
+
+#### Option 2
+- [Install pygame](https://www.pygame.org/wiki/GettingStarted)
+- Run the script called **cice_christmas_script.py** using the play button in VS Code Editor, or just run `python cice_christmas_script.py`
+
+Use the keyboard arrows to make the character walk and once you see the white alert on top of the script, press Space to hear the message (🇪🇸).
