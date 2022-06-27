@@ -34,11 +34,10 @@ I also recorded the message audio with my phone and I edited it using the app *S
 
 
 ![Logo](./dist/data/images/cice_christmas.png)
-[[./dist/data/images/dali.png | width=100px]]
-[[./dist/data/images/dali2.png | width=100px]]
-[[./dist/data/images/dali3.png | width=100px]]
+<img src="./dist/data/images/dali.png" width="100px">
+<img src="./dist/data/images/dali2.png" width="100px">
+<img src="./dist/data/images/dali3.png" width="100px">
 <img src="./dist/data/images/dali_down1.png" width="100px">
-![](./dist/data/images/)
-![](./dist/data/images/)
-![](./dist/data/images/)
-![](./dist/data/images/)
+<img src="./dist/data/images/dali_down1.png" width="100px">
+<img src="./dist/data/images/dali_down2.png" width="100px">
+<img src="./dist/data/images/dali_down3.png" width="100px">
