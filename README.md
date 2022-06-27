@@ -29,4 +29,16 @@ First days, while I was still researching about pygame, I downloaded an app in m
 
 I also recorded the message audio with my phone and I edited it using the app *Super Sound*
 
-![logo](./dist/data/images/cice_christmas.png)
+
+## ALL THE IMAGES
+
+
+![Logo](./dist/data/images/cice_christmas.png)
+![Dali's face1](./dist/data/images/dali.png)
+![Dali's face2](./dist/data/images/dali2.png)
+![Dali's face3](./dist/data/images/dali3.png)
+![](./dist/data/images/)
+![](./dist/data/images/)
+![](./dist/data/images/)
+![](./dist/data/images/)
+![](./dist/data/images/)
